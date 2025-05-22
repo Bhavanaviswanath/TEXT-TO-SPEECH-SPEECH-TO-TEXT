@@ -3,7 +3,9 @@
 
 This Python project offers a **user-friendly GUI-based application** that allows users to seamlessly convert **text to speech** and **speech to text**. Built with `tkinter`, and powered by `gTTS` (Google Text-to-Speech) and `SpeechRecognition`, this tool is ideal for anyone needing fast and easy voice-to-text or text-to-voice conversion.
 
-![image]([https://drive.google.com/file/d/17vfvhXxIC_effZhqe4uUdlRAn-zzudNy/view?usp=sharing])
+
+![Sample Output](https://github.com/Bhavanaviswanath/TEXT-TO-SPEECH-SPEECH-TO-TEXT/blob/400bd3397fef217a44e2bcabfd098c1e3f60f8f8/Sample%20output.jpeg?raw=true)
+
 
 ## 🚀 Features
 
